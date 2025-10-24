@@ -1,0 +1,50 @@
+[
+  {
+    "id": "basmati-5kg",
+    "name": "Basmati Rice \u2013 5kg",
+    "price": 12.99,
+    "image": "/images/rice.svg",
+    "category": "Rice",
+    "unit": "5 kg bag"
+  },
+  {
+    "id": "parle-g",
+    "name": "Parle-G Biscuits",
+    "price": 1.49,
+    "image": "/images/biscuits.svg",
+    "category": "Snacks",
+    "unit": "120 g"
+  },
+  {
+    "id": "maggi-noodles",
+    "name": "Maggi 2-Minute Noodles (Masala)",
+    "price": 0.99,
+    "image": "/images/noodles.svg",
+    "category": "Snacks",
+    "unit": "70 g"
+  },
+  {
+    "id": "mdh-garam-masala",
+    "name": "MDH Garam Masala",
+    "price": 2.99,
+    "image": "/images/spices.svg",
+    "category": "Spices",
+    "unit": "100 g"
+  },
+  {
+    "id": "amul-lassi",
+    "name": "Amul Lassi",
+    "price": 1.79,
+    "image": "/images/beverage.svg",
+    "category": "Beverages",
+    "unit": "200 ml"
+  },
+  {
+    "id": "frozen-paratha",
+    "name": "Frozen Paratha (5 pcs)",
+    "price": 3.49,
+    "image": "/images/frozen.svg",
+    "category": "Frozen",
+    "unit": "5 pieces"
+  }
+]
