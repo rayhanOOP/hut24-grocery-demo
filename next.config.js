@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: { appDir: true },
+  // App Router is default in Next 14+; no experimental flag needed
 };
 
 module.exports = nextConfig;
